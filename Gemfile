@@ -7,6 +7,11 @@ gem 'rspec'
 
 gem 'tire'
 gem 'tire-contrib'
+gem 'yajl-ruby'
 
 gem 'multi_json'
 gem 'oj'
+
+
+gem 'pry'
+gem 'pry-doc'
